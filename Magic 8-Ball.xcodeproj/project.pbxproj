@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2674849A23F366C80093A3A9 /* Build configuration list for PBXProject "MagicEightBall" */;
+			buildConfigurationList = 2674849A23F366C80093A3A9 /* Build configuration list for PBXProject "Magic 8-Ball" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -293,7 +293,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Make-School.MagicEightBall";
+				PRODUCT_BUNDLE_IDENTIFIER = "Make-School.MagicEightBall.Lauren";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -311,7 +311,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Make-School.MagicEightBall";
+				PRODUCT_BUNDLE_IDENTIFIER = "Make-School.MagicEightBall.Lauren";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2674849A23F366C80093A3A9 /* Build configuration list for PBXProject "MagicEightBall" */ = {
+		2674849A23F366C80093A3A9 /* Build configuration list for PBXProject "Magic 8-Ball" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				267484B223F366CC0093A3A9 /* Debug */,
