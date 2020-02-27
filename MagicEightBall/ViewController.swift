@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         let randomIndex = Int.random(in: 0..<answers.count)
         
         answerLabel.text = answers[randomIndex]
+        generateAnswer()
     }
     
     @IBAction func shakeButtonTapped(_ sender: Any) {
